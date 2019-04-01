@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554131832 source:c:\users\alumno\desktop\asdsedw\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled2.h"
+
+1554130127 c:\users\alumno\desktop\asdsedw\untitled2.h
+
+1554131860 source:c:\users\alumno\desktop\asdsedw\untitled3.c
+	<stdio.h>
+	<stdlib.h>
+	"Untitled2.h"
+
